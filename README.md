@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello 
+
+![zazuPhotositesis](https://github.com/user-attachments/assets/843cdac5-7e82-4a43-bac7-23dc566cc493)
+
 
 <!--
 **szymsun/szymsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
