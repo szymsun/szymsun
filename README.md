@@ -1,6 +1,6 @@
 ## Hello 
 
-I'm simon and i like playing instruments, gamedev and annoying my Friends.
+I'm simon and i like playing instruments, making games and annoying my Friends.
 
 I can:
 
